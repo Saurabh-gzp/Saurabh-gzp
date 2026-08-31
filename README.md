@@ -25,7 +25,7 @@ location: India
 philosophy: If a phone can run it, I can build it
 ```
 
-- 🤖 **AI-First Developer** — I design autonomous AI agents, multi-agent systems, LLM gateways and neuro-symbolic reasoners
+- 🤖 **AI-First Developer** — I design autonomous AI agents, multi-agent systems and LLM API gateways
 - 📚 **BCA Student** — Bachelor of Computer Applications, self-taught builder
 - 📱 **No laptop. No PC. Only a phone.** — every single project in my account was written, tested and shipped 100% from an Android phone using **Termux**
 - 🔬 Currently exploring **neuro-symbolic AI, spiking neural networks & agentic tool-calling**
@@ -94,8 +94,8 @@ philosophy: If a phone can run it, I can build it
 ## 🚀 Featured Projects
 
 <div align="center">
-<a href="https://github.com/Saurabh-gzp/MANAS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurabh-gzp&repo=MANAS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" alt="MANAS" /></a>
+<a href="https://github.com/Saurabh-gzp/deepseek-agent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurabh-gzp&repo=deepseek-agent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" alt="deepseek-agent" /></a>
 <a href="https://github.com/Saurabh-gzp/nexus-agent">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurabh-gzp&repo=nexus-agent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" alt="nexus-agent" /></a>
 <br/>
@@ -115,7 +115,6 @@ philosophy: If a phone can run it, I can build it
 
 | Project | What it does |
 |---------|-------------|
-| [**deepseek-agent**](https://github.com/Saurabh-gzp/deepseek-agent) | Autonomous multi-tool CLI agent running entirely on DeepSeek — vision modes, RAG + memory |
 | [**qwen2api**](https://github.com/Saurabh-gzp/qwen2api) | Qwen Web → OpenAI/Anthropic/Gemini API gateway with function calling, deployed on Render |
 | [**openinbox-tempmail**](https://github.com/Saurabh-gzp/openinbox-tempmail) | 10-minute disposable email in your terminal — dual engine, instant OTP alerts |
 | [**instant-mail-cli**](https://github.com/Saurabh-gzp/instant-mail-cli) | Temp email + OTP watcher CLI — real Gmail support, 4 mail services |
