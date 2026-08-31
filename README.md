@@ -4,7 +4,9 @@
 
 <br/><br/>
 
-# Hi, I'm Saurabh <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="34" />
+<img src="assets/avatar.png" alt="avatar" width="120" style="border-radius:50%;border:3px solid #30363D" />
+
+# Hi, I'm Saurabh
 
 **🤖 AI-First Developer &nbsp;•&nbsp; 📚 BCA Student &nbsp;•&nbsp; 📱 Codes 100% from a phone (Termux)**
 
